@@ -1,4 +1,6 @@
 ## Discord-Transcript
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnavaneethkm004%2Fdiscord-transcription-bot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnavaneethkm004%2Fdiscord-transcription-bot?ref=badge_shield)
+
 
 An advanced Transcript Bot, which allows you to transcript almost Infinite messages of a channel, and get them into a readable word (docx) File!
 
@@ -37,3 +39,6 @@ client.login(config.TOKEN);                    //start the bot with the bot toke
                     align="center"
                 />
             </a></div>
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnavaneethkm004%2Fdiscord-transcription-bot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnavaneethkm004%2Fdiscord-transcription-bot?ref=badge_large)
